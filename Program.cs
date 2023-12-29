@@ -7,7 +7,10 @@ class Program
     {
         string[] randomStrings = GenerateRandomStrings(10, 5);
 
+        string[] resultStrings = FilterStrings(randomStrings);
+
         Console.WriteLine("Исходные случайные строки: " + string.Join(", ", randomStrings));
+        Console.WriteLine("Отфильтрованные строки: " + string.Join(", ", resultStrings));
     
     }
 
@@ -30,5 +33,31 @@ class Program
         }
 
         return randomStrings;
+    }
+
+    static string[] FilterStrings(string[] inputStrings)
+    {
+        int resultCount = 0;
+        for (int i = 0; i < inputStrings.Length; i++)
+        {
+            if (inputStrings[i].Length <= 3)
+            {
+                resultCount++;
+            }
+        }
+
+        string[] resultStrings = new string[resultCount];
+        int index = 0;
+
+        for (int i = 0; i < inputStrings.Length; i++)
+        {
+            if (inputStrings[i].Length <= 3)
+            {
+                resultStrings[index] = inputStrings[i];
+                index++;
+            }
+        }
+
+        return resultStrings;
     }
 }
