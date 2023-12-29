@@ -1,0 +1,14 @@
+D:\Павел\Desktop\Itogovay\bin\Debug\net8.0\Itogovay.exe
+D:\Павел\Desktop\Itogovay\bin\Debug\net8.0\Itogovay.deps.json
+D:\Павел\Desktop\Itogovay\bin\Debug\net8.0\Itogovay.runtimeconfig.json
+D:\Павел\Desktop\Itogovay\bin\Debug\net8.0\Itogovay.dll
+D:\Павел\Desktop\Itogovay\bin\Debug\net8.0\Itogovay.pdb
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.AssemblyInfoInputs.cache
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.AssemblyInfo.cs
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.csproj.CoreCompileInputs.cache
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.dll
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\refint\Itogovay.dll
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.pdb
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\Itogovay.genruntimeconfig.cache
+D:\Павел\Desktop\Itogovay\obj\Debug\net8.0\ref\Itogovay.dll
